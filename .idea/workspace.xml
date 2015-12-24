@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c94ad6a6-69ef-498b-9133-b1689ad362ba" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbin2/src/main/AndroidManifest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/wangbin10/app/src/main/java/com/example/mybluetoothchat/ChatActivity.java" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\.idea\encodings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\androidTest\java\com\iot\ecjtu\xubiao2\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\java\com\iot\ecjtu\xubiao2\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao2\src\test\java\com\iot\ecjtu\xubiao2\ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\androidTest\java\com\iot\ecjtu\xubiao3\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\java\com\iot\ecjtu\xubiao3\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao3\src\test\java\com\iot\ecjtu\xubiao3\ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\androidTest\java\com\iot\ecjtu\xubiao4\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\java\com\iot\ecjtu\xubiao4\Activity2.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\java\com\iot\ecjtu\xubiao4\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\layout\activity2.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao4\src\test\java\com\iot\ecjtu\xubiao4\ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\androidTest\java\com\iot\ecjtu\xubiao5\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\java\com\iot\ecjtu\xubiao5\ChactActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\java\com\iot\ecjtu\xubiao5\FriendProfileActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\java\com\iot\ecjtu\xubiao5\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\btn_bg_green.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\gr.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\head.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\ic_sex_female.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\line.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\right.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\tx.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\tx2.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\drawable\tx3.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\layout\activity_chact.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\layout\activity_friend_profile.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao5\src\test\java\com\iot\ecjtu\xubiao5\ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\androidTest\java\com\iot\ecjtu\xubiao67\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\java\com\iot\ecjtu\xubiao67\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao6.7\src\test\java\com\iot\ecjtu\xubiao67\ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\androidTest\java\com\iot\ecjtu\xubiao8\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\java\com\iot\ecjtu\xubiao8\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\java\com\iot\ecjtu\xubiao8\model\Adapter.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\java\com\iot\ecjtu\xubiao8\model\Friend.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\drawable\pic.jpg" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\layout\activity_main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\layout\list_item.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao8\src\test\java\com\iot\ecjtu\xubiao8\ExampleUnitTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\build.gradle" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\proguard-rules.pro" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\androidTest\java\com\iot\ecjtu\xubiao9\ApplicationTest.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\AndroidManifest.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\java\com\iot\ecjtu\xubiao9\CanvasView.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\java\com\iot\ecjtu\xubiao9\MainActivity.java" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\anim\animatorset.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\layout\main.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\mipmap-hdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\mipmap-mdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\mipmap-xhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\mipmap-xxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\mipmap-xxxhdpi\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\values-w820dp\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\values\colors.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\values\dimens.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\values\strings.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\main\res\values\styles.xml" afterPath="" />
+      <change type="DELETED" beforePath="F:\智能终端\MyApplication2\xubiao9\src\test\java\com\iot\ecjtu\xubiao9\ExampleUnitTest.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/.name" afterPath="$PROJECT_DIR$/.idea/.name" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
+    <ignored path="MyApplication2.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/classes/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view />
+      </state>
+    </system>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="MyApplication2" />
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="NamedScopeManager">
+    <order />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1382" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="Applet" default="true" selected="false">
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+    </configuration>
+    <configuration name="&lt;template&gt;" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" default="true" selected="false">
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c94ad6a6-69ef-498b-9133-b1689ad362ba" name="Default" comment="" />
+      <created>1450930673073</created>
+      <option name="number" value="Default" />
+      <updated>1450930673073</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <editor active="false" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32935154" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
